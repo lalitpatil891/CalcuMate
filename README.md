@@ -30,7 +30,7 @@ A simple and responsive React-based arithmetic calculator that allows users to p
    ```bash
    git clone https://github.com/lalitpatil891/repository-name.git
    cd repository-name
-````
+   ```
 
 2. **Install dependencies:**
 
