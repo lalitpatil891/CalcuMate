@@ -1,12 +1,79 @@
-# React + Vite
+Sure, Lalit!
+Here’s a **professional, clean, and simple `README.md`** file for your project repository:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📄 **`README.md` for CalcuMate**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+````markdown
+# CalcuMate 🧮
 
-## Expanding the ESLint configuration
+A simple and responsive React-based arithmetic calculator that allows users to perform basic operations such as addition, subtraction, multiplication, division, modulus, and power.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+[View on GitHub Pages](https://calcumatelp.netlify.app/) <!-- You can replace this link after deployment -->
+
+## 🛠️ Features
+
+- Perform operations: **+ − × ÷ % ^**
+- Clear inputs with the **Reset** button
+- Input validation (shows error for invalid inputs)
+- Mobile and desktop responsive
+- Clean & modern design using **Tailwind CSS**
+- Footer with GitHub profile link
+- User-friendly instructions
+
+## 🏗️ Built With
+
+- [React.js](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 📸 Screenshot
+
+![CalcuMate Screenshot](#https://github.com/lalitpatil891/CalcuMate/blob/master/SC/Screenshot%201.png) <!-- Add screenshot in the repo with this name or change path -->
+
+## 🧩 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/lalitpatil891/repository-name.git
+   cd repository-name
+````
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+## 📂 Folder Structure
+
+```
+/src
+  ├── App.jsx      # Main Calculator Component
+  ├── App.css      # Custom styles
+  └── main.jsx     # React entry point
+index.html         # HTML Template
+tailwind.config.js # Tailwind setup
+postcss.config.js  # PostCSS setup
+```
+
+## ✨ Author
+
+Made with ❤️ by [Lalit Patil](https://github.com/lalitpatil891)
+
+## 🔗 Links
+
+* [GitHub Profile](https://github.com/lalitpatil891)
+
+## 📝 License
+
+This project is **open source** and free to use under the [MIT License](LICENSE).
+
+```
