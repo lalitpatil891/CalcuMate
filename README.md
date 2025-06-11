@@ -1,17 +1,9 @@
-Sure, Lalit!
-Here’s a **professional, clean, and simple `README.md`** file for your project repository:
-
----
-
-## 📄 **`README.md` for CalcuMate**
-
-````markdown
 # CalcuMate 🧮
 
 A simple and responsive React-based arithmetic calculator that allows users to perform basic operations such as addition, subtraction, multiplication, division, modulus, and power.
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://calcumatelp.netlify.app/) <!-- You can replace this link after deployment -->
+[View on GitHub Pages](https://calcumatelp.netlify.app/)  
 
 ## 🛠️ Features
 
@@ -30,7 +22,7 @@ A simple and responsive React-based arithmetic calculator that allows users to p
 
 ## 📸 Screenshot
 
-![CalcuMate Screenshot](#https://github.com/lalitpatil891/CalcuMate/blob/master/SC/Screenshot%201.png) <!-- Add screenshot in the repo with this name or change path -->
+![CalcuMate Screenshot](https://github.com/lalitpatil891/CalcuMate/blob/master/SC/Screenshot%201.png)
 
 ## 🧩 Getting Started
 
@@ -75,5 +67,3 @@ Made with ❤️ by [Lalit Patil](https://github.com/lalitpatil891)
 ## 📝 License
 
 This project is **open source** and free to use under the [MIT License](LICENSE).
-
-```
